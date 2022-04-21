@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PenTrac", "PenTrac\PenTrac.vcproj", "{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ProgWinCE_SDK (ARMV4I) = Debug|ProgWinCE_SDK (ARMV4I)
+		Debug|ProgWinCE_SDK (x86) = Debug|ProgWinCE_SDK (x86)
+		Release|ProgWinCE_SDK (ARMV4I) = Release|ProgWinCE_SDK (ARMV4I)
+		Release|ProgWinCE_SDK (x86) = Release|ProgWinCE_SDK (x86)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Debug|ProgWinCE_SDK (ARMV4I).ActiveCfg = Debug|ProgWinCE_SDK (ARMV4I)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Debug|ProgWinCE_SDK (ARMV4I).Build.0 = Debug|ProgWinCE_SDK (ARMV4I)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Debug|ProgWinCE_SDK (ARMV4I).Deploy.0 = Debug|ProgWinCE_SDK (ARMV4I)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Debug|ProgWinCE_SDK (x86).ActiveCfg = Debug|ProgWinCE_SDK (x86)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Debug|ProgWinCE_SDK (x86).Build.0 = Debug|ProgWinCE_SDK (x86)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Debug|ProgWinCE_SDK (x86).Deploy.0 = Debug|ProgWinCE_SDK (x86)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Release|ProgWinCE_SDK (ARMV4I).ActiveCfg = Release|ProgWinCE_SDK (ARMV4I)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Release|ProgWinCE_SDK (ARMV4I).Build.0 = Release|ProgWinCE_SDK (ARMV4I)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Release|ProgWinCE_SDK (ARMV4I).Deploy.0 = Release|ProgWinCE_SDK (ARMV4I)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Release|ProgWinCE_SDK (x86).ActiveCfg = Release|ProgWinCE_SDK (x86)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Release|ProgWinCE_SDK (x86).Build.0 = Release|ProgWinCE_SDK (x86)
+		{0E7DE5AC-B624-4F3B-8689-BA8F0E43A5A6}.Release|ProgWinCE_SDK (x86).Deploy.0 = Release|ProgWinCE_SDK (x86)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
